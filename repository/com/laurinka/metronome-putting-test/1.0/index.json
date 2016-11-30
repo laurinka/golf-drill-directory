@@ -1,0 +1,7 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "metronome-putting-test",
+  "version": 1,
+  "locations": ["anywhere"],
+  "categories": ["putting"],
+}
