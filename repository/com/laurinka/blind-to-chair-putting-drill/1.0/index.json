@@ -1,0 +1,10 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "to-chair-putting-drill",
+  "version": 1,
+  "locations": ["home"],
+  "categories": ["putting"],
+  "related": :[
+    {"group-id":"com.laurinka", "artifact-id":"blind-to-chair-putting-drill"}    
+]}
+}
