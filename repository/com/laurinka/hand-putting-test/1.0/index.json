@@ -3,5 +3,6 @@
   "artifact-id": "hand-putting-test",
   "version": 1,
   "locations": ["putting green"],
-  "categories": ["putting"]  
+  "categories": ["putting"] ,
+  "source": "https://s3.amazonaws.com/media.reports/putting-yips-practice-drills.pdf" 
 }
