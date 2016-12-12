@@ -1,0 +1,7 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "hand-putting-test",
+  "version": 1,
+  "locations": ["putting green"],
+  "categories": ["putting"]  
+}
