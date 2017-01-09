@@ -1,7 +1,6 @@
 {
   "group-id": "com.laurinka",
   "artifact-id": "no-routine-putting-drill",
-  "version": 1,
   "locations": ["home"],
   "categories": ["putting"],
 }
