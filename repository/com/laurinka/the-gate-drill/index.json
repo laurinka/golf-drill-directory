@@ -1,9 +1,6 @@
 {
   "group-id": "com.laurinka",
-  "artifact-id": "to-chair-putting-drill",
+  "artifact-id": "the-gate-drill",
   "locations": ["home"],
-  "categories": ["putting"],
-  "related": :[
-    {"group-id":"com.laurinka", "artifact-id":"blind-to-chair-putting-drill"}
-    ]}
+  "categories": ["putting"]
 }
