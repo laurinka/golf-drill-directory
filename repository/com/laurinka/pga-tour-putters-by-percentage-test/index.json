@@ -3,4 +3,5 @@
   "artifact-id": "pga-tour-putters-by-percentage-test",
   "locations": ["green"],
   "categories": ["putting"],
+  "author": "radim.pavlicek@laurinka.com"
 }

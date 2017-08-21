@@ -3,7 +3,8 @@
   "artifact-id": "to-chair-putting-drill",
   "locations": ["home"],
   "categories": ["putting"],
-  "related": :[
+  "related": [
     {"group-id":"com.laurinka", "artifact-id":"blind-to-chair-putting-drill"}
-    ]}
+    ]},
+  "author": "radim.pavlicek@laurinka.com"
 }

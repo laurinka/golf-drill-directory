@@ -3,4 +3,5 @@
   "artifact-id": "metronome-putting-test",
   "locations": ["anywhere"],
   "categories": ["putting"],
+  "author": "radim.pavlicek@laurinka.com"
 }

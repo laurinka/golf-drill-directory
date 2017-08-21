@@ -2,5 +2,6 @@
   "group-id": "com.laurinka",
   "artifact-id": "the-gate-drill",
   "locations": ["home"],
-  "categories": ["putting"]
+  "categories": ["putting"],
+  "author": "radim.pavlicek@laurinka.com"
 }

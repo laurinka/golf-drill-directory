@@ -2,5 +2,6 @@
   "group-id": "com.laurinka",
   "artifact-id": "chip-within-the-distance-drill",
   "locations": ["short-game area"],
-  "categories": ["chipping"]
+  "categories": ["chipping"],
+  "author": "radim.pavlicek@laurinka.com"
 }
