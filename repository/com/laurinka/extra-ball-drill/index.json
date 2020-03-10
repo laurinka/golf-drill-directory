@@ -1,0 +1,7 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "round-with-extra-balls",
+  "locations": ["home"],
+  "categories": ["game"],
+  "author": "radim.pavlicek@laurinka.com"
+}
