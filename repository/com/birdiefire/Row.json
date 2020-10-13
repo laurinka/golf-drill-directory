@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Row",
+  "data": [
+    "Make the following 12 putts in a row. If you miss, start over. 2 from 2ft, 3 from 3ft, 3 from 4ft, 3 from 5ft, 1 from 6ft"
+  ],
+  "categories": [
+    "Putting"
+  ]
+}

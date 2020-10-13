@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Target-practice",
+  "data": [
+    "Hit 10 tee shots that start at a certain target. Don't focus on where it goes after that, but focus on starting the ball in a certain place. Count how many you successfully start in the correct place."
+  ],
+  "categories": [
+    "Tee Shot"
+  ]
+}

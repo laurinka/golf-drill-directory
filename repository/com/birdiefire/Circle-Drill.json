@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Circle-Drill",
+  "data": [
+    "Put 6 balls in a circle around the hole. Make all 6 putts. Do this from 2ft, 4ft, and 6ft. Make all 18 putts in a row. If you miss, start over from the beginning at 2ft."
+  ],
+  "categories": [
+    "Putting"
+  ]
+}

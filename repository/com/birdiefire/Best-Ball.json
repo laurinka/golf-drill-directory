@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Best-Ball",
+  "data": [
+    "9 or 18 holes. Play 2 balls from each shot and take the better one of the two. See how low you can go!"
+  ],
+  "categories": [
+    "Approach Shot", "Bunker Shot", "Putting",  "Short Game"  , "Tee Shot"
+  ]
+}

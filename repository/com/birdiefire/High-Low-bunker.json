@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "High-Low-bunker",
+  "data": [
+    "Hit 10 shots low/10 shots high out of the bunker to different pins. Count how many you successfully hit the way you want."
+  ],
+  "categories": [
+    "Bunker Shot"
+  ]
+}

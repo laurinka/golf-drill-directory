@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Angles",
+  "data": [
+    "Using 3 balls, putt from 10, 15 and 20 ft from different angles. Choose putts that are (1)straight downhill, (2)straight uphill, (3)downhill left to right, (4)downhill right to left, (5)uphill left to right, and (6)uphill right to left. With a total of 18 different putts, the goal is to have a final score of 30 (6 one-putts and 12 two-putts)."
+  ],
+  "categories": [
+    "Lag Putting","Putting"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Bunker-Pin-Length",
+  "data": [
+    "Pick a short bunker shot and count how many you can get inside a pin length (7') out of 10."
+  ],
+  "categories": [
+    "Bunker Shot"
+  ]
+}

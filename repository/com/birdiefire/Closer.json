@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Closer",
+  "data": [
+    "Hit one bunker shot to the pin, but not past it. See how many balls you can hit between yourself and the previous ball played. If you hit one past your previous shot, the game is over. The ball has to make it out of the bunker to count."
+  ],
+  "categories": [
+    "Bunker Shot"
+  ]
+}

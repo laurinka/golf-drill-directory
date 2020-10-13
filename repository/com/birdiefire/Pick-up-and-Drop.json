@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Pick-up-and-Drop",
+  "data": [
+    "On an 18 hole round, pick up your ball once you reach every green and drop it anywhere within 3 paces off the green. The goal is to make an up & down. Keep score and see how close you can stay to par."
+  ],
+  "categories": [
+    "Chipping","Pitching","Putting", "Short Game"
+  ]
+}

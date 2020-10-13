@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "High-Low",
+  "data": [
+    "Pick a shot and play a high and a low shot to the same pin from the same position. Do this 20 times."
+  ],
+  "categories": [
+    "Chipping", "Pitching", "Short Game"
+  ]
+}

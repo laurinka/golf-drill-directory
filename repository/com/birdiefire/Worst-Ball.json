@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Worst-Ball",
+  "data": [
+    "Play 9 or 18 holes. Play 2 balls from each shot and take the worst one of the two. Keep your total score relation to par."
+  ],
+  "categories": [
+    "Putting"
+  ]
+}

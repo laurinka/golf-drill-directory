@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Misses",
+  "data": [
+    "Play 18 holes and miss every green on purpose. Change up where you miss, focusing on a specific target. Keep track of how many up and downs you get."
+  ],
+  "categories": [
+    "Approach Shot", "Bunker Shot", "Chipping","Pitching","Putting","Short Game","Short Putting", "Tee Shot",  "Trouble Shots/Recovery"
+  ]
+}

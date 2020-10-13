@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "15ft-Putts",
+  "data": [
+    "Pick 3 different 15ft putts. The goal is to putt 3 balls in a row (each from the different spot) into the hole or past it (within a grip length). The same putt should never be hit twice in a row."
+  ],
+  "categories": [
+    "Lag Putting","Putting"
+  ]
+}

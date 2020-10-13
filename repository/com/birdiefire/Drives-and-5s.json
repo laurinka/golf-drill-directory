@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Drives-and-5s",
+  "data": [
+    "Play 2 drives from the tee, 0 points for hitting the fairway, +1 for missing the fairway, +2 for hitting into the trees. Don't play an iron shot. Pick a wedge shot and a chip and finish out. Goal is to have a total of 5 combined from drives and short game"
+  ],
+  "categories": [
+    "Putting"
+  ]
+}

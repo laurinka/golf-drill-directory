@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "Flight-control",
+  "data": [
+    "Hit 10 drivers where the ball moves from right to left, 10 left to right. Count how many you successfully execute."
+  ],
+  "categories": [
+    "Tee Shot"
+  ]
+}
