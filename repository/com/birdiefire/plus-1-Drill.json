@@ -1,0 +1,10 @@
+{
+  "group-id": "com.birdiefire.decade",
+  "artifact-id": "plus-1-Drill",
+  "data": [
+    "Choose 10 different chips 15-20ft from the hole. Chip in = -1 Chip, one putt = 0 Chip, two putt = +1 **Repeat until your score after 10 balls is +1 or better"
+  ],
+  "categories": [
+    "Lag Putting","Putting"
+  ]
+}
