@@ -1,8 +1,0 @@
-{
-  "group-id": "com.laurinka",
-  "artifact-id": "blind-putting-drill",
-  "locations": ["home", "putting green"],
-  "categories": ["putting"],
-  "source": "https://s3.amazonaws.com/media.reports/putting-yips-practice-drills.pdf",
-  "author": "radim.pavlicek@laurinka.com"
-}

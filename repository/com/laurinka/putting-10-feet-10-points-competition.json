@@ -1,0 +1,8 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "putting-10-feet-10-points-competition",
+  "locations": ["home"],
+  "categories": ["garden"],
+  "author": "birdietime.com",
+  "data": "10 foot 10 point game\ncount how many holes you putted before you reached 10 points\n2 points if you sink the putt\n-1 if you leave the first one short\n0 for two putt\n-3 if you 3-putted or more\n\ncount how many putts you made until you reached 10 points"
+}

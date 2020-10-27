@@ -1,0 +1,8 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "the-penny-drill",
+  "locations": ["home"],
+  "categories": ["putting"],
+  "author": "radim.pavlicek@laurinka.com",
+  "data": "  <p>Place a penny on the putting green. Place a tee 3 feet from the penny.</p>\n\n  <h1>The drill</h1>\n\n  <p>The goal is to putt 5 putts to roll over penny and rest within the range of 12 inches of the tee behind the penny.</p>\n"
+}

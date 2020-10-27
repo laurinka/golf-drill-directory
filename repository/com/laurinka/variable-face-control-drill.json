@@ -1,0 +1,8 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "variable-face-control-drill",
+  "locations": ["home"],
+  "categories": ["putting"],
+  "author": "radim.pavlicek@laurinka.com",
+  "data": "  <p>Place tees 3 inches on each side of the cup. You need 3 balls.</p>\n\n  <h1>The drill</h1>\n\n  <p>Putt 1 ball left to the hole, between the tee and cup, putt 1 ball right of the hole and the third one into the hole. All of them must not touch edges of the hole.\n    Repeat 3 consecutive times and move back to the 6 feet.</p>"
+}

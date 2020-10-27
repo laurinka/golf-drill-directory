@@ -1,0 +1,9 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "hand-putting-test",
+  "locations": ["putting green"],
+  "categories": ["putting"] ,
+  "source": "https://s3.amazonaws.com/media.reports/putting-yips-practice-drills.pdf",
+  "author": "radim.pavlicek@laurinka.com",
+  "data": "Putt with your eyes closed, focusing on the target only. Try 4 feet with 15 repetitions."
+}

@@ -1,0 +1,8 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "metronome-putting-test",
+  "locations": ["anywhere"],
+  "categories": ["putting"],
+  "author": "radim.pavlicek@laurinka.com",
+  "data": "  <h1>Preparations</h1>\n  <p>Place a book on the floor, start metronome with tempo e.g. 65.</p>\n\n  <h1>The drill</h1>\n\n  <p>Start with putter aligned with the book. Move the putterhead back in 2 clicks back and 1 click forward. Your impact with book should be exactly on 3rd click.</p>\n"
+}

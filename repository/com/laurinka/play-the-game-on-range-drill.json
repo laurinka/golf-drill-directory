@@ -1,0 +1,8 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "play-the-game-on-range-drill",
+  "locations": ["range"],
+  "categories": ["course management"],
+  "author": "radim.pavlicek@laurinka.com",
+  "data": "Play a round of golf on the range. Visualising everything. One point for every good shot, zero points for a so-so shot and -1 for poor shot."
+}

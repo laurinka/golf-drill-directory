@@ -1,0 +1,8 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "round-with-extra-balls",
+  "locations": ["home"],
+  "categories": ["game"],
+  "author": "radim.pavlicek@laurinka.com",
+  "data": "  <p>Before playing a round try to set optimistic target on your score</p>\n\n  <h1>The drill</h1>\n\n  <p>\n  Every time you hit a shot below your standard, take extra ball and hit it again.\n  The idea is to hit your ideal score no matter how much extra balls you take."
+}

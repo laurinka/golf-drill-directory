@@ -1,0 +1,8 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "pga-tour-putters-by-percentage-test",
+  "locations": ["green"],
+  "categories": ["putting"],
+  "author": "radim.pavlicek@laurinka.com",
+  "data": "\t<p>Put a tee 10 feet off the tee, than each foot from 5 to 10 feet all in one line. I.e. you have a tee at 5, 6, 7, 8, 9 an 10 feet distance.</p>\n\n\t<h1>The test</h1>\n\n\t<p>Hit 10 balls from each distance. \n  PGA Tour percentages: \n\t\t<ul>\n\t\t\t<li>5 feet: 92%</li>\n\t\t\t<li>6 feet: 83%</li>\n\t\t\t<li>7 feet: 79%</li>\n\t\t\t<li>8 feet: 72%</li>\n\t\t\t<li>9 feet: 71%</li>\n\t\t\t<li>10 feet: 61%</li>\n\t\t</ul>\n\t</p>"
+}

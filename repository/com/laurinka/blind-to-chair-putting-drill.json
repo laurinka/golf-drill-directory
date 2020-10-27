@@ -1,0 +1,10 @@
+{
+  "group-id": "com.laurinka",
+  "artifact-id": "to-chair-putting-drill",
+  "locations": ["home"],
+  "categories": ["putting"],
+  "related": [
+    {"group-id":"com.laurinka", "artifact-id":"blind-to-chair-putting-drill"}],
+  "author": "radim.pavlicek@laurinka.com",
+  "data": " <h1>Preparations</h1>\n  <p>Measure putter-lenght distance from a chair. Prepare 10 balls.</p>\n\n  <h1>The drill</h1>\n\n  <p>Close your eyes and try to hit the chair leg. Shoot all 10 balls and mark your personal best.</p>\n"
+}
